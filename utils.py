@@ -1,3 +1,6 @@
+"""Kodzik"""
+
+
 def add(a: int, b: int) -> int:
     """Addiction."""
     return a + b
